@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farelis30&label=Profile%20views&color=0e75b6&style=flat" alt="farelis30" /> </p>
 
-- 🔭 I’m currently working on **Game Controller With Open CV**
+- 🔭 I’m currently working on **Restaurant POS System**
 
-- 🌱 I’m currently learning **Tkinter, Mediapipe**
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me **muhammadalfarelyudistira01@gmail.com**
 
